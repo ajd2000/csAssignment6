@@ -5,7 +5,7 @@ This file contains the Algorithm class for performing k-means clustering.  While
 the last part of the assignment, it is the heart of the clustering algorithm.  You
 need this class to view the complete visualizer.
 
-YOUR NAME(S) AND NETID(S) HERE
+Alec Diamond and Madeline Aptman
 DATE COMPLETED HERE
 """
 import math
